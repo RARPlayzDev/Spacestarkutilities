@@ -11,6 +11,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.rarplayz.spacestark.Spacestark;
+import net.rarplayz.spacestark.block.custom.SpeedyBlock;
 import net.rarplayz.spacestark.item.ModCreativeModeTab;
 import net.rarplayz.spacestark.item.ModItems;
 
@@ -36,14 +37,18 @@ public class ModBlocks {
         public static final RegistryObject<Block> DEEPSLATE_CITRINE_ORE = registerBlock("deepslate_citrine_ore",
                 () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                         .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.SPACE_TAB);
+
         public static final RegistryObject<Block> NETHERRACK_CITRINE_ORE = registerBlock("netherrack_citrine_ore",
                 () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                         .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.SPACE_TAB);
+
         public static final RegistryObject<Block> ENDSTONE_CITRINE_ORE = registerBlock("endstone_citrine_ore",
                 () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                         .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.SPACE_TAB);
 
-
+        public static final RegistryObject<Block> SPEEDY_BLOCK = registerBlock("speedy_block",
+            () -> new SpeedyBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.SPACE_TAB);
 
 
         private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
