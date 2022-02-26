@@ -7,6 +7,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.rarplayz.spacestark.Spacestark;
+import net.rarplayz.spacestark.item.custom.DowsingRodItem;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -17,6 +18,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> RAW_CITRINE = ITEMS.register("raw_citrine",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SPACE_TAB)));
+
+    public static final RegistryObject<Item> DOWSING_ROD = ITEMS.register("dowsing_rod",
+            () -> new DowsingRodItem(new Item.Properties().tab(ModCreativeModeTab.SPACE_TAB).durability(16)));
 
 
 
