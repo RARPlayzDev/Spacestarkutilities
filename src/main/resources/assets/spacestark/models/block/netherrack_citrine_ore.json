@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "spacestark:block/netherrack_citrine_ore"
+  }
+}

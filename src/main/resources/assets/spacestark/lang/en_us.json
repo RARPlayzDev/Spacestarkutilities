@@ -1,4 +1,11 @@
 {
   "item.spacestark.citrine": "Citrine",
-  "item.spacestark.raw_citrine": "Raw Citrine"
+  "item.spacestark.raw_citrine": "Raw Citrine",
+
+  "block.spacestark.citrine_block": "Citrine Block",
+  "block.spacestark.raw_citrine_block": "Raw Citrine Block",
+  "block.spacestark.citrine_ore": "Citrine Ore",
+  "block.spacestark.deepslate_citrine_ore": "Deepslate Citrine Ore",
+  "block.spacestark.netherrack_citrine_ore": "Netherrack Citrine Ore",
+  "block.spacestark.endstone_citrine_ore": "Endstone Citrine Ore"
 }
