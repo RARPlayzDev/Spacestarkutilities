@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "spacestark:citrine_ore"
+  },
+  "result": "spacestark:citrine",
+  "experience": 1.0,
+  "cookingtime": 400
+}
