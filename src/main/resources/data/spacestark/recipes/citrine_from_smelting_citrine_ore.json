@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "spacestark:raw_citrine_ore"
+    "item": "spacestark:raw_citrine"
   },
   "result": "spacestark:citrine",
   "experience": 1.0,
