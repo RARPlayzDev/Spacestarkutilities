@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "spacestark:citrine_ore",
+    "spacestark:citrine_block",
+    "spacestark:raw_citrine_block",
+    "spacestark:deepslate_citrine_ore",
+    "spacestark:netherrack_citrine_ore",
+    "spacestark:endstone_citrine_ore"
+  ]
+}
