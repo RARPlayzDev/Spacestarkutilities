@@ -7,5 +7,7 @@
   "block.spacestark.citrine_ore": "Citrine Ore",
   "block.spacestark.deepslate_citrine_ore": "Deepslate Citrine Ore",
   "block.spacestark.netherrack_citrine_ore": "Netherrack Citrine Ore",
-  "block.spacestark.endstone_citrine_ore": "Endstone Citrine Ore"
+  "block.spacestark.endstone_citrine_ore": "Endstone Citrine Ore",
+
+  "itemGroup.spacestark": "Stark Utils"
 }
