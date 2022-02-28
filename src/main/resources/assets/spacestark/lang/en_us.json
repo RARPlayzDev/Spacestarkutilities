@@ -11,8 +11,10 @@
   "block.spacestark.deepslate_citrine_ore": "Deepslate Citrine Ore",
   "block.spacestark.netherrack_citrine_ore": "Netherrack Citrine Ore",
   "block.spacestark.endstone_citrine_ore": "Endstone Citrine Ore",
-  "block.spacestark.speedy_block": "Speed Booster",
 
+  "itemGroup.starkutils": "SpaceStark",
+
+  "block.spacestark.speedy_block": "Speed Booster",
   "item.spacestark.dowsing_rod.no_valuables": "No Valuables Found!",
   "tooltip.spacestark.dowsing_rod.tooltip.shift": "Right Click to find Valuables!",
   "tooltip.spacestark.dowsing_rod.tooltip": "Press §eSHIFT§r for more Information!",
