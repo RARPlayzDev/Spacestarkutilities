@@ -13,5 +13,8 @@
   "block.spacestark.endstone_citrine_ore": "Endstone Citrine Ore",
   "block.spacestark.speedy_block": "Speed Booster",
 
-  "itemGroup.starkutils": "Stark Utils"
+  "item.spacestark.dowsing_rod.no_valuables": "No Valuables Found!",
+  "tooltip.spacestark.dowsing_rod.tooltip.shift": "Right Click to find Valuables!",
+  "tooltip.spacestark.dowsing_rod.tooltip": "Press §eSHIFT§r for more Information!",
+  "tooltip.spacestark.block.speedy_block": "I am speed!"
 }
